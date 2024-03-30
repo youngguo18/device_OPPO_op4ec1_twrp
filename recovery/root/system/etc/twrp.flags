@@ -66,8 +66,3 @@
 /my_region           emmc    /dev/block/bootdevice/by-name/my_region             flags=display="my_region";flashimg;backup=1
 /my_stock           emmc    /dev/block/bootdevice/by-name/my_stock             flags=display="my_stock";flashimg;backup=1
 
-/metadata           emmc    /dev/block/bootdevice/by-name/metadata              flags=display="metadata";flashimg;backup=1
-/engineering_cdt           emmc    /dev/block/bootdevice/by-name/engineering_cdt             flags=display="engineering_cdt";flashimg;backup=1
-/splash           emmc    /dev/block/bootdevice/by-name/splash             flags=display="splash";flashimg;backup=1
-/cdt_reserve2            emmc    /dev/block/bootdevice/by-name/reserve2              flags=display="reserve2 ";flashimg;backup=1
-/cdt_oplusreserve2            emmc    /dev/block/bootdevice/by-name/oplusreserve2              flags=display="oplusreserve2 ";flashimg;backup=1
